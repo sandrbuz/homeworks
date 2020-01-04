@@ -1,0 +1,30 @@
+body {
+  background: gray;
+}
+
+h3 {
+  text-align: center;
+}
+.note {
+  font-weight: bolder;
+}
+.part_1 {
+  background: cornflowerblue;
+}
+.part_2 {
+  background: darkgray;
+}
+.part_3 {
+  background: darkgreen;
+}
+.part_4 {
+  background: darkolivegreen;
+}
+.part_5 {
+  background: darkslategrey;
+}
+.part_6 {
+  background: forestgreen;
+}
+ 
+
